@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: image url(/assets/img/suleyman-cakir-1-qjid.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    filter: blur(10px); 
+    z-index: -1;
+}
